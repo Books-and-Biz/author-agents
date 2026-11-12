@@ -34,7 +34,7 @@ The kit does not create a schedule by being downloaded. Keep author data outside
 
 **Free:** all eight roles above, their full routines and source, the ZIP, and free Lab setup lessons. Edit or fork the free kits under the MIT license.
 
-**Lab Premium / Operator:** the member library contains Author Admin Coordinator and Reader Marketing Coordinator, including their required Essentials foundations, plus Story Room access under the Lab membership terms. The Premium kits are self-installed and are not in this repository. The existing $119/month option remains; a $397/year introductory option is planned for the same Premium tier. [Join the free Lab or view Premium](https://www.skool.com/indie-author-plugin-lab/). Check the live Skool checkout for current terms before paying.
+**Lab Premium / Operator:** the member library contains Author Admin Coordinator and Reader Marketing Coordinator, including their required Essentials foundations, plus Story Room access under the Lab membership terms. The Premium kits are self-installed and are not in this repository. An introductory $397/year option is planned for the same Premium tier. [Join the free Lab or view Premium](https://www.skool.com/indie-author-plugin-lab/). Check the live Skool checkout for current terms before paying.
 
 Author Launch Essentials retains its existing VIP and standalone purchase terms; it is not relabeled as a Lab subscription.
 
