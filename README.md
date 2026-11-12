@@ -2,6 +2,8 @@
 
 Eight complete, editable roles made for indie authors. Each role has named recurring routines, a sample output, a run log, correction rules, and setup guides for Codex, Claude, Dots, Grok Bots, and Muse. The free kits are MIT licensed and remain usable without Lab Premium. Your agent account and usage are separate.
 
+**New here?** [Choose a role and build your install prompt](https://books-and-biz.github.io/author-agents/). The public source and ZIP below contain every free routine. [Join the free Lab classroom](https://www.skool.com/indie-author-plugin-lab/classroom/5b917301) for the same ZIP and a short setup walkthrough.
+
 ## Choose one job
 
 | Free role | What it does | Routines |
