@@ -2,6 +2,15 @@
 
 Two complete, editable author roles: [Author Weekly Desk](roles/author-weekly-desk/INSTALL.md) and [Book Page Watch](roles/book-page-watch/INSTALL.md). Download this repository as a ZIP or clone it, copy one role into a persistent folder, and run its first routine manually before scheduling it. No Lab payment is needed to use these MIT-licensed roles. Your agent account and usage are separate.
 
+## What they do
+
+| Role | When it works | What you get |
+| --- | --- | --- |
+| **Author Weekly Desk** | Monday and Friday | A Monday brief with up to three priorities drawn from your books, deadlines, available time, and tasks; a Friday review of what finished and what carries forward. |
+| **Book Page Watch** | Tuesday and Friday, plus a monthly summary | Checks the public book URLs you supplied for loading problems and changes to visible title, pen name, or format. Writes a check log and an exception report with the URL and evidence. |
+
+For example, Weekly Desk can turn “finish the paperback proof, send the cover brief, draft chapter 12” into a dated plan with owners and blockers. Page Watch can flag an ebook link that redirects to the wrong edition. You review the output and decide what to change.
+
 ## Get started
 1. Choose one role folder.
 2. Copy it to your own author workspace.
