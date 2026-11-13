@@ -36,8 +36,6 @@ The kit does not create a schedule by being downloaded. Keep author data outside
 
 **Lab Premium / Operator:** the member library contains Author Admin Coordinator and Reader Marketing Coordinator, plus their complete Author Admin Essentials and Author Marketing Essentials foundations. Those foundations include 28 focused admin and marketing skills and guided setup for Claude Desktop or Codex desktop. The coordinators track work, use a matching specialist or prepare a handoff, check the result, and bring back decisions and approvals. Native delegation to another chat depends on the app. Premium also includes Story Room and AuthorBrainHQ access under the Lab membership terms. The Premium kits are self-installed and are not in this repository. New members can choose the introductory $397/year Premium offer. [Build your Premium install prompt](https://books-and-biz.github.io/author-agents/#premium-prompt) or [view the Lab](https://www.skool.com/indie-author-plugin-lab/). Check the live Skool checkout for renewal terms before paying.
 
-Author Launch Essentials retains its existing VIP and standalone purchase terms; it is not relabeled as a Lab subscription.
-
 ## Corrections and privacy
 
 Open a GitHub issue for a reproducible kit problem. Do not post private book files, reader details, or credentials. No routine sends, posts, spends, or changes a live account without a separate author decision.
