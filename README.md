@@ -6,7 +6,7 @@
 
 Eight complete, editable roles made for indie authors. Each role has named recurring routines, a sample output, a run log, correction rules, and setup guides for Codex, Claude, Dots, Grok Bots, and Muse. The free kits are MIT licensed and remain usable without Lab Premium. Your agent account and usage are separate.
 
-**New here?** [Choose a role and build your install prompt](https://books-and-biz.github.io/author-agents/). The public source and ZIP below contain every free routine. [Join the free Lab classroom](https://www.skool.com/indie-author-plugin-lab/classroom/5b917301) for the same ZIP and a short setup walkthrough.
+**New here?** [Choose a role, build your install prompt, and follow the app-specific steps](https://books-and-biz.github.io/author-agents/#install). The page walks through Codex, Claude, Dots, Grok Bots, Muse, and manual use. The public source and ZIP below contain every free routine. [Join the free Lab classroom](https://www.skool.com/indie-author-plugin-lab/classroom/5b917301) for the same ZIP and a short setup walkthrough.
 
 ## Choose one job
 
@@ -34,7 +34,7 @@ The kit does not create a schedule by being downloaded. Keep author data outside
 
 **Free:** all eight roles above, their full routines and source, the ZIP, and free Lab setup lessons. Edit or fork the free kits under the MIT license.
 
-**Lab Premium / Operator:** the member library contains Author Admin Coordinator and Reader Marketing Coordinator, including their required Essentials foundations, plus Story Room access under the Lab membership terms. The Premium kits are self-installed and are not in this repository. New members can choose the introductory $397/year Premium offer. [Join the free Lab or view Premium](https://www.skool.com/indie-author-plugin-lab/). Check the live Skool checkout for renewal terms before paying.
+**Lab Premium / Operator:** the member library contains Author Admin Coordinator and Reader Marketing Coordinator, plus their complete Author Admin Essentials and Author Marketing Essentials foundations. Those two foundations include 28 focused admin and marketing skills and guided setup for Claude Desktop or Codex desktop. The coordinators prepare a weekday admin decisions queue, weekly reader content drafts, and a monthly marketing review. Premium also includes Story Room and AuthorBrainHQ access under the Lab membership terms. The Premium kits are self-installed and are not in this repository. New members can choose the introductory $397/year Premium offer. [Read the Premium setup steps](https://books-and-biz.github.io/author-agents/#premium) or [view the Lab](https://www.skool.com/indie-author-plugin-lab/). Check the live Skool checkout for renewal terms before paying.
 
 Author Launch Essentials retains its existing VIP and standalone purchase terms; it is not relabeled as a Lab subscription.
 
