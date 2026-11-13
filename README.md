@@ -32,7 +32,7 @@ The kit does not create a schedule by being downloaded. Keep author data outside
 
 ## Free and Premium
 
-**Free:** all eight roles above, their full routines and source, the ZIP, and free Lab setup lessons. Edit or fork the free kits under the MIT license.
+**Free:** all eight roles above, their full routines and source, the ZIP, and free Lab setup lessons. [Join the free community](https://www.skool.com/indie-author-plugin-lab/) for agent setup questions, first-run help, and other authors using the kits. Edit or fork the free kits under the MIT license.
 
 **Lab Premium / Operator:** the member library contains Author Admin Coordinator and Reader Marketing Coordinator, plus their complete Author Admin Essentials and Author Marketing Essentials foundations. Those foundations include 28 focused admin and marketing skills and guided setup for Claude Desktop or Codex desktop. The coordinators track work, use a matching specialist or prepare a handoff, check the result, and bring back decisions and approvals. Native delegation to another chat depends on the app. Premium also includes Story Room Studio, an interactive book-creation plugin with genre-specific planning, scene simulation, drafting, continuity checks, audit, and export, and [AuthorBrainHQ](https://app.authorbrainhq.com/), the author-business app for books, plans, tasks, results, and decisions, under the Lab membership terms. The Premium kits are self-installed and are not in this repository. New members can choose the introductory $397/year Premium offer. [Build your Premium install prompt](https://books-and-biz.github.io/author-agents/#premium-prompt) or [view the Lab](https://www.skool.com/indie-author-plugin-lab/). Check the live Skool checkout for renewal terms before paying.
 
